@@ -58,7 +58,7 @@ const config = {
 
           {
             type: "doc",
-            docId: "work/intro",
+            docId: "work-and-education/intro",
             position: "left",
             label: "Work",
           },
